@@ -1,6 +1,6 @@
 # Student Performance Exploratory Data Analysis (EDA)
 
-## 📘 Project Overview
+##  Project Overview
 This project focuses on performing **Exploratory Data Analysis (EDA)** on a dataset that contains details about students' exam performance and demographic factors.  
 The objective is to **analyze the impact of various socio-economic and behavioral factors** (like parental education, gender, lunch type, and test preparation) on students' scores in Math, Reading, and Writing.
 
@@ -8,7 +8,7 @@ By the end of this notebook, we extract **key insights**, visualize relationship
 
 
 
-## 📂 Folder Structure
+##  Folder Structure
 ````
 
 student_performance_eda/
@@ -33,7 +33,7 @@ student_performance_eda/
 
 ---
 
-## 📊 Dataset Description
+##  Dataset Description
 **Source:** [Kaggle – Students Performance in Exams](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
 
 The dataset contains **1000 rows** and **8 columns** representing various demographic and academic attributes.
@@ -51,7 +51,7 @@ The dataset contains **1000 rows** and **8 columns** representing various demogr
 
 ---
 
-## ⚙️ Step-by-Step Methodology
+##  Step-by-Step Methodology
 
 ### **1. Data Loading & Setup**
 The first step involves importing libraries and loading the dataset into a Pandas DataFrame.
@@ -121,7 +121,7 @@ Evaluates correlation between parents’ education level and student scores.
 
 ---
 
-## 📈 Visualization & Insights
+##  Visualization & Insights
 
 ### **1. Distribution of Math Scores**
 
@@ -204,7 +204,7 @@ All score pairs exhibit linear relationships, confirming that high achievers in 
 
 ---
 
-## 🧾 Cleaned Data Export
+##  Cleaned Data Export
 
 The cleaned dataset was saved for future use in ML projects:
 
@@ -214,7 +214,7 @@ df.to_csv("cleaned_students_performance.csv", index=False)
 
 ---
 
-## 🚀 Conclusion
+##  Conclusion
 
 This project provides a complete data exploration workflow:
 
