@@ -239,6 +239,6 @@ The dataset is now **ready for predictive modeling**, such as:
 
 **Author:** Yash Desai
 **Tools Used:** Python, Pandas, NumPy, Matplotlib, Seaborn
-**Domain:** Machine Learning / Data Analysis
+**Domain:** MaAnalysischine Learning / Data 
 
 
