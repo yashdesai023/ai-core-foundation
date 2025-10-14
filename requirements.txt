@@ -4,4 +4,4 @@ matplotlib
 seaborn
 kagglehub
 scikit-learn
-tensorflow
+tensorflow==2.12
