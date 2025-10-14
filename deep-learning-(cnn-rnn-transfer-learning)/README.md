@@ -1,7 +1,4 @@
-Absolutely ✅ — here’s a **professionally structured `README.md`** for your **Deep Learning module (Day 5–6)**, combining all three projects (CNN, RNN, and Transfer Learning).
-It’s written in a polished, portfolio-ready format (similar to your previous READMEs), and includes dataset details, folder structure, placeholders for visuals, and insights for each subproject.
 
----
 
 
 #  **Deep Learning Projects — CNN, RNN & Transfer Learning**
