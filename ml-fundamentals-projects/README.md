@@ -310,8 +310,9 @@ print("Adjusted Rand Index:", adjusted_rand_score(iris.target, kmeans.labels_))
 
 ---
 
-**Author:** Yash Desai
-**Focus Area:** Machine Learning Fundamentals
+* **Author:** Yash Desai
+* **Email:** desaisyash1000@gmail.com 
+* **GitHub:** yashdesai023
 
 
 
