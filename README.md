@@ -117,5 +117,19 @@ I thrive on designing solutions that are **scalable, impactful, and deployment-r
 * 🤖 Building applied Generative AI & LLM projects with Python, LangChain & TensorFlow
 * ⚙️ Exploring DevOps & SDET practices (CI/CD, Docker, Jenkins, Testing)
 * 🌍 Goal: To stand at the intersection of enterprise engineering & AI by delivering scalable, intelligent solutions
-* 🔗 LinkedIn | Portfolio
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yash-s-desai-/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/yashdesai023">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:desaisyash1000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
 
