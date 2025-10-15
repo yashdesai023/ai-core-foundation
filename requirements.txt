@@ -5,3 +5,6 @@ seaborn
 kagglehub
 scikit-learn
 tensorflow==2.12
+xgboost
+joblib
+

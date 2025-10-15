@@ -1,0 +1,4 @@
+Model,Best Score (AUC),Best Params
+SVM,0.8940881822182636,"{'model__C': 1, 'model__gamma': 'scale', 'model__kernel': 'rbf'}"
+RandomForest,0.8787417079558001,"{'model__max_depth': 10, 'model__min_samples_split': 5, 'model__n_estimators': 200}"
+XGBoost,0.8811190355363798,"{'model__learning_rate': 0.05, 'model__max_depth': 3, 'model__n_estimators': 100}"
