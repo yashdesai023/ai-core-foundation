@@ -1,7 +1,7 @@
 # AI Core Foundation — Machine Learning & Deep Learning Portfolio
 
 This repository showcases my **AI Core Foundation** journey — covering data handling, ML, DL, model tuning, and deployment preparation.  
-It contains structured, practical projects built during a 10-day sprint focused on **hands-on learning** and **real-world readiness**.
+It contains structured, practical projects built focused on **hands-on learning** and **real-world readiness**.
 
 ---
 
